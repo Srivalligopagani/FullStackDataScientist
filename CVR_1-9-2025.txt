@@ -1,0 +1,137 @@
+11.
+
+A security system checks whether the entered code is prime for extra authentication. Write a program to check if a given number is prime.
+
+12.
+
+In a class test, a teacher wants to know the second highest score among students. Write a program to find the second largest number in a list.
+
+13.
+
+A fitness app counts only even-numbered steps to calculate “balanced walking.” Write a program to find the sum of even numbers from 1 to 50.
+
+14.
+
+A typing speed test wants to know how many uppercase and lowercase letters a user typed. Write a program to count uppercase and lowercase characters in a string.
+
+15.
+
+A financial tool simulates Fibonacci-like growth in savings. Write a program to generate the Fibonacci sequence up to n terms.
+
+16.
+
+A word puzzle game checks if two words are anagrams (same letters but shuffled). Write a program to check if two strings are anagrams.
+
+17.
+
+A science experiment needs to verify whether a number is perfect (sum of divisors = number). Write a program to check if a number is a perfect number.
+
+18.
+
+A school report system calculates percentage and assigns grades:
+
+≥90 → A
+
+≥75 → B
+
+≥50 → C
+
+<50 → Fail
+
+Write a program that takes 5 subject marks, calculates percentage, and prints the grade.
+
+19.
+
+A mathematics quiz app generates all prime numbers between 1 and 100. Write a program to print all prime numbers in this range.
+
+20.
+
+An online editor counts words in an article but doesn’t allow using split(). Write a program to count the number of words in a sentence.
+
+---------------------------------------------------------------------
+21. Movie Ticket Discount
+
+A cinema gives a 20% discount if the customer is a student and 10% discount if the customer is a senior citizen (age ≥ 60).
+Write a program that takes ticket price, age, and student status (yes/no) as input and prints the final ticket price.
+
+22. Shopping Cart Free Delivery
+
+An e-commerce website gives free delivery if the total cart value is more than ₹500. Otherwise, a delivery charge of ₹50 is applied.
+Write a program that takes the cart total as input and prints the final amount payable.
+
+23. Marks Grading System
+
+A college follows this grading system:
+
+90–100: A
+
+75–89: B
+
+50–74: C
+
+Below 50: Fail
+Write a program that takes marks as input and prints the grade.
+
+24. Restaurant Tip Calculator
+
+A restaurant suggests tips based on the bill:
+
+Less than 500 → 5% tip
+
+500–1000 → 10% tip
+
+More than 1000 → 15% tip
+Write a program that takes the bill amount and prints the tip to be added.
+
+25. Gym Membership Plan
+
+A gym charges:
+
+₹500 per month
+
+₹2700 for 6 months (discounted)
+
+₹5000 for 12 months (discounted)
+Write a program where the user enters the membership period (months) and the program prints the cheapest option.
+
+26. Exam Eligibility
+
+A student must have at least 75% attendance to sit for the exam.
+Write a program that takes total classes and classes attended as input and prints whether the student is eligible or not eligible.
+
+27. ATM Withdrawal
+
+An ATM only allows withdrawals in multiples of 100.
+Write a program that takes the withdrawal amount and prints whether the transaction is successful or failed.
+
+28. Weather Suggestion
+
+Write a program that takes the temperature as input and gives a suggestion:
+
+35 → "Too hot, stay indoors!"
+
+20–35 → "Nice weather, go out!"
+
+< 20 → "It’s cold, wear warm clothes!"
+
+29. Library Fine
+
+A library charges a fine for late book returns:
+
+1–5 days → ₹10
+
+6–10 days → ₹50
+
+10 days → ₹100
+Write a program that takes the number of late days as input and prints the fine amount.
+
+30. Electricity Bill Calculator
+
+An electricity board charges:
+
+First 100 units → ₹5 per unit
+
+Next 100 units (101–200) → ₹7 per unit
+
+Above 200 units → ₹10 per unit
+Write a program that takes units consumed as input and prints the bill amount.
